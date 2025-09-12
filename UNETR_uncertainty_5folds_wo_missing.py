@@ -1,7 +1,7 @@
 import torch
 from torch.utils.data import DataLoader
 from dataset_without_dwi import data, custom_collate_fn
-from healnet.models import HealNet_U_Site_UNETR
+from uicsurv.models import HealNet_U_Site_UNETR
 import numpy as np
 from surv_tool import evaluate_model_wo_missing, compute_brier_score
 from loss import deephit_loss_uncertainty
