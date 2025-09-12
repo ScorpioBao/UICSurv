@@ -18,7 +18,7 @@ UICSurv enhances **robustness** and **interpretability** by addressing both **mo
 The overall framework of **UICSurv** is illustrated below:
 
 <p align="center">
-  <img src="Figs/fig2.png" alt="UICSurv Framework" width="700"/>
+  <img src="Figs/fig2.png" alt="UICSurv Framework"/>
 </p>
 
 
