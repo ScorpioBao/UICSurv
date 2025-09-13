@@ -29,3 +29,6 @@ UICSurv enhances **robustness** and **interpretability** by addressing both **mo
 
 ## 🔗 References
 - **HEALNET**: [https://github.com/konst-int-i/healnet](https://github.com/konst-int-i/healnet)
+
+## 📫 Contact
+- Email: senlinbao@gmail.com
