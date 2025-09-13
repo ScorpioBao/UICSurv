@@ -9,7 +9,7 @@ from torchvision import datasets, transforms, models
 from sklearn.metrics import accuracy_score, roc_auc_score
 from lifelines.utils import concordance_index
 from scipy.stats import pearsonr
-from healnet.models.base import TrainableModel, stack, masked_variance, masked_mean
+from uicsurv.models.base import TrainableModel, stack, masked_variance, masked_mean
 
 import einops
 class FCNN(nn.Module):

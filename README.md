@@ -13,16 +13,12 @@ The overall framework of **UICSurv** is illustrated below:
   <img src="Figs/fig2.png" alt="UICSurv Framework"/>
 </p>
 
-
 UICSurv enhances **robustness** and **interpretability** by addressing both **modality heterogeneity** and **site heterogeneity** through:
 - Iterative cross-attention based multimodal fusion (backbone from **HEALNET**).  
 - **Survival Contrastive Learning (SCL)** for semantic-preserving embedding.  
 - **EvidenceHit**: uncertainty-aware survival prediction module with evidence learning.  
 
 ---
-
-
-
 
 ## 🚀 Key Features
 - Multimodal survival prediction with **uncertainty quantification**.  
@@ -31,3 +27,5 @@ UICSurv enhances **robustness** and **interpretability** by addressing both **mo
 
 ---
 
+## 🔗 References
+- **HEALNET**: [https://github.com/konst-int-i/healnet](https://github.com/konst-int-i/healnet)
