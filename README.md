@@ -10,7 +10,7 @@ This repository contains the official implementation of **UICSurv**, a novel mul
 The overall framework of **UICSurv** is illustrated below:
 
 <p align="center">
-  <img src="figs/fig2.png" alt="UICSurv Framework"/>
+  <img src="figs/fig1.png" alt="UICSurv Framework"/>
 </p>
 
 UICSurv enhances **robustness** and **interpretability** by addressing both **modality heterogeneity** and **site heterogeneity** through:
