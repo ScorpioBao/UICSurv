@@ -23,7 +23,7 @@ class UNETR_T2(nn.Module):
         super().__init__()
 
         self.num_layers = 6
-        self.patch_size = (32,32,20)
+        self.patch_size = (16,16,10)
         self.feat_size = (
             img_size[0] // self.patch_size[0],
             img_size[1] // self.patch_size[1],
@@ -73,7 +73,7 @@ class UNETR_DWI(nn.Module):
         super().__init__()
 
         self.num_layers = 6
-        self.patch_size = (32,32,20)
+        self.patch_size = (16,16,10)
         self.feat_size = (
             img_size[0] // self.patch_size[0],
             img_size[1] // self.patch_size[1],
