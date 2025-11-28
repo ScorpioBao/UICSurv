@@ -21,7 +21,7 @@ UICSurv enhances **robustness** and **interpretability** by addressing both **mo
 ---
 
 ## 🚀 Key Features
-- Multimodal survival prediction with **uncertainty quantification**.  
+- Multimodal survival prediction with **uncertainty estimation**.  
 - **Cross-site evaluation** to ensure robustness and generalization.  
 - Support for **Kaplan–Meier (KM) analysis**.  
 
